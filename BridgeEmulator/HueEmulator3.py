@@ -1354,6 +1354,9 @@ class S(BaseHTTPRequestHandler):
             self._set_headers()
             saveConfig()
             self._set_end_headers(bytes(json.dumps([{"success":{"configuration":"saved","filename":"/opt/hue-emulator/config.json"}}] ,separators=(',', ':')), "utf8"))
+        elif self.path == '/version':
+            self._set_headers()
+            self._set_end_headers(bytes(json.dumps(bridge_config["diyhue"], indent=4, separators=(',', ':')), "utf8"))
         elif self.path.startswith("/tradfri"): #setup Tradfri gateway
             self._set_headers()
             get_parameters = parse_qs(urlparse(self.path).query)

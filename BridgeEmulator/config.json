@@ -567,6 +567,9 @@
 
       }
    },
+   "diyhue": {
+       "diyhueversion":"0.0.1"
+   },
    "deconz":{
       "enabled":false,
       "lights":{
