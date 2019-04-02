@@ -97,7 +97,7 @@ Please submit [ in this issue](https://github.com/mariusmotea/diyHue/issues/27) 
   
 Check the [Wiki page](https://github.com/diyHue/diyHue/wiki) for more details  
   
-[![Youtube Demo](https://img.youtube.com/vi/c6MsG3oIehY/0.jpg)](https://www.youtube.com/watch?v=c6MsG3oIehY)
+[![Youtube Demo](https://img.youtube.com/vi/c6MsG3oIehY/0.jpg)](https://www.youtube.com/watch?v=c6MsG3oIehY) [![Join the chat at https://gitter.im/test0sterone/community](https://badges.gitter.im/test0sterone/community.svg)](https://gitter.im/test0sterone/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 I push updates fast so if you want to be notified, just watch this repo
 
